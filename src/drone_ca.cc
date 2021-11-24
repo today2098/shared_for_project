@@ -1,5 +1,7 @@
 /*
 ドローンの衝突回避 (CA:Collision Avoidance) システム. 
+
+動作環境: ns-3.35
 */
 
 #include <bits/stdc++.h>
